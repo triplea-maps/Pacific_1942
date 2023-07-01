@@ -1,0 +1,4 @@
+map_name: pacific_1942
+games:
+- {game_name: 'Pacific: 1942', file_name: pacific_1942.xml}
+version: 0
